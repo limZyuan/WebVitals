@@ -40,5 +40,7 @@ Go to chrome web browser and go to edge://extensions/.
         provide a good user experience, pages should maintain a CLS of less than
         0.1.
 <h2>Built with:</h2>
-      - React js
-      - web-vitals (https://web.dev/vitals/)
+<ul>
+  <li>React js</li>
+  <li>web-vitals (https://web.dev/vitals/)</li>
+ </ul>
