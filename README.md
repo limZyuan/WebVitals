@@ -14,8 +14,6 @@ Go to chrome web browser and go to edge://extensions/.
 - Load dist folder (what was built) 
 - Go to any website and test the vitals!
       <br/>
-      <br/>
-      <br/>
 <h2>Vitals measured:</h2>
         <b>TTFB:</b> Time to first byte is a measurement used as an indication
         of the responsiveness of a webserver or other network resource.
@@ -39,6 +37,7 @@ Go to chrome web browser and go to edge://extensions/.
         <b>CLS:</b> Cumulative Layout Shift (CLS) measures visual stability. To
         provide a good user experience, pages should maintain a CLS of less than
         0.1.
+      <br/>
 <h2>Built with:</h2>
 <ul>
   <li>React js</li>
